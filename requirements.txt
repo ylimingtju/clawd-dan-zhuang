@@ -1,0 +1,7 @@
+# 测试环境：Python 3.13，括号内为当时的版本
+numpy        # 2.3.5
+opencv-python  # 4.13.0
+Pillow       # 12.1.1
+scipy        # 1.16.3
+imageio-ffmpeg  # 0.6.0，自带 ffmpeg
+resvg-py     # 0.5.0，SVG 光栅化
